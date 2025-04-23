@@ -55,7 +55,7 @@ You can deploy this script on any PHP-supported server or localhost to use it in
 
 **Muzamil Attiq**  
 Senior Full Stack Developer  
-[LinkedIn/GitHub/Portfolio Link Here – Optional]
+https://pk.linkedin.com/in/muzamilattiq-website-developer-seo
 
 ---
 
